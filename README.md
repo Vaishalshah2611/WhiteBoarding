@@ -14,3 +14,5 @@ Architecture-5: It shows the Kafka working architecture from a high level.
 Architecture-6: It shows how database replica infrastructure looks like. Showing the interaction between the master and slave DBs.
 
 Architecture-7: It shows the use case of Database replicas while dealing with high volume/traffic application.
+
+Architecture-8: A basic information about AWS-SQS
