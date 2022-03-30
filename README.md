@@ -16,3 +16,5 @@ Architecture-6: It shows how database replica infrastructure looks like. Showing
 Architecture-7: It shows the use case of Database replicas while dealing with high volume/traffic application.
 
 Architecture-8: A basic information about AWS-SQS
+
+Architechture-9: Phases of DevOps, Lifecycle and culture of DevOps are mentioned in brief.
