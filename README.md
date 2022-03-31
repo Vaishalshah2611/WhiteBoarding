@@ -18,3 +18,9 @@ Architecture-7: It shows the use case of Database replicas while dealing with hi
 Architecture-8: A basic information about AWS-SQS
 
 Architechture-9: Phases of DevOps, Lifecycle and culture of DevOps are mentioned in brief.
+
+Architecture-10: It shows the basic 3 tier infrastructure for application designing.
+
+Architecture-11: In this white boarding diagram, a sample Mobile Backend Serverless Architecture is designed.  
+
+Architecture-12: This white board diagram shows the designing of infrastructure for hosting a website over Amazon S3, a serverless architecture.
