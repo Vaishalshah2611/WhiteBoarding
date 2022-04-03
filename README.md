@@ -17,7 +17,7 @@ Architecture-7: It shows the use case of Database replicas while dealing with hi
 
 Architecture-8: A basic information about AWS-SQS
 
-Architechture-9: Phases of DevOps, Lifecycle and culture of DevOps are mentioned in brief.
+Architecture-9: Phases of DevOps, Lifecycle and culture of DevOps are mentioned in brief.
 
 Architecture-10: It shows the basic 3 tier infrastructure for application designing.
 
