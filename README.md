@@ -24,3 +24,5 @@ Architecture-10: It shows the basic 3 tier infrastructure for application design
 Architecture-11: In this white boarding diagram, a sample Mobile Backend Serverless Architecture is designed.  
 
 Architecture-12: This white board diagram shows the designing of infrastructure for hosting a website over Amazon S3, a serverless architecture.
+
+Architecture-13: This white board diagram shows the two diffrent types of Autoscaling methods. Namley, Horizontal Scaling and Vertical Scaling.
