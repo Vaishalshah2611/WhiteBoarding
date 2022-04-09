@@ -30,3 +30,5 @@ Architecture-13: This white board diagram shows the two diffrent types of Autosc
 Architecture-14: This white board session shows the basics of Docker Concept and it's advantage.
 
 Architecture-15: It shows the basic Active Directory Architecture at logical level - Based on Windows AD
+
+Architecture-16: Its shows the use cases of Azure AD along with the IAM and SSO mechanism.
