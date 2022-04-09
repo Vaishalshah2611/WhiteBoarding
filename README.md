@@ -28,3 +28,5 @@ Architecture-12: This white board diagram shows the designing of infrastructure 
 Architecture-13: This white board diagram shows the two diffrent types of Autoscaling methods. Namley, Horizontal Scaling and Vertical Scaling.
 
 Architecture-14: This white board session shows the basics of Docker Concept and it's advantage.
+
+Architecture-15: It shows the basic Active Directory Architecture at logical level - Based on Windows AD
