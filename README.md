@@ -32,3 +32,5 @@ Architecture-14: This white board session shows the basics of Docker Concept and
 Architecture-15: It shows the basic Active Directory Architecture at logical level - Based on Windows AD
 
 Architecture-16: Its shows the use cases of Azure AD along with the IAM and SSO mechanism.
+
+Architecture-17: Its show one of the many infrastructure that can be carried out on AWS for Data Analytics purpose. In this architecture, raw logs can be send to the S3 bucket and it can be qeuried using Amazon Athene( In a same way as SQL) and then data can be beautifully visualized on Amazon QuickSight.
